@@ -13,23 +13,29 @@ Calculate the percentage of PHEVs relative to the total number of electric vehic
 
 chart Requirement
 Total Vehicles by Model Year (From 2010 Onwards):
+
 1.Visualization: Line/ Area Chart
 Description: This chart will illustrate the distribution of electric vehicles over the years, starting from 2010, providing insights into the growth pattern and adoption trends.
+
 2. Total Vehicles by State:
 Visualization: Map Chart 
 Description: This chart will showcase the geographical distribution of electric vehicles across different states, allowing for the identification of regions with higher adoption rates.
-3. Top 10 Total Vehicles by Make:
+
+4. Top 10 Total Vehicles by Make:
 Visualization: Bar Chart 
 Description: Highlight the top 10 electric vehicle manufacturers based on the total number of vehicles, providing insights into the market dominance of specific brands.
-4. Total Vehicles by CAFV Eligibility:
+
+6. Total Vehicles by CAFV Eligibility:
 Visualization: Pie Chart or Donut Chart
 Description: Illustrate the proportion of electric vehicles that are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, aiding in understanding the impact of incentives on vehicle adoption.
-5. Top 10 Total Vehicles by Model:
+
+8. Top 10 Total Vehicles by Model:
 Visualization: Tree map
 Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
 
-software used
+
+Software used
 
 1. MS OFFICE/ EXCEL: VERSION 2021
 
