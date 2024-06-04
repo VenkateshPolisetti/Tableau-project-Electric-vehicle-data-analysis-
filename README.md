@@ -11,7 +11,7 @@ Calculate the percentage of BEVs relative to the total number of electric vehicl
 Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
-## chart Requirement
+## Chart Requirement
 Total Vehicles by Model Year (From 2010 Onwards):
 
 1.Visualization: Line/ Area Chart
@@ -72,13 +72,21 @@ Action: Highlight long-term savings in marketing materials and offer financing o
 Model Popularity:
 
 Insight: Specific models, particularly those offering a balance of range, performance, and affordability, dominate the sales charts.
+
 Action: Focus on expanding the lineup of popular models and improving features that drive consumer preference, such as battery range and charging infrastructure.
+
 Visualization of Insights
+
 Sales Growth Over Time: Line charts showing the year-over-year sales growth for different types of green vehicles.
+
 Regional Sales Distribution: Heat maps indicating regions with the highest and lowest sales of green vehicles.
+
 Demographic Analysis: Bar charts and pie charts depicting the age distribution and other demographic factors of green vehicle buyers.
+
 Impact of Incentives: Graphs correlating sales data with the presence of government incentives in various regions.
+
 Model Comparison: Bubble charts comparing different green vehicle models based on sales volume, price, and consumer ratings.
+
 
 
 ## Conclusion
